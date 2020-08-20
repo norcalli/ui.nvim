@@ -1,0 +1,3 @@
+[submodule "lua/ui/neovim-plugin"]
+	path = lua/ui/neovim-plugin
+	url = https://github.com/norcalli/neovim-plugin
